@@ -6,3 +6,4 @@
 4. Social media buttons
 5. Neon buttons
 6. Error page
+7. Responsive menu
