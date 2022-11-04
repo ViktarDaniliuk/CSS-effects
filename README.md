@@ -8,3 +8,4 @@
 6. Error page
 7. Responsive menu
 8. Download indicator
+9. Spinner
