@@ -9,3 +9,4 @@
 7. Responsive menu
 8. Download indicator
 9. Spinner
+10. Animation of text 'LOADING...'
