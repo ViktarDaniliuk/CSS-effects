@@ -7,3 +7,4 @@
 5. Neon buttons
 6. Error page
 7. Responsive menu
+8. Download indicator
