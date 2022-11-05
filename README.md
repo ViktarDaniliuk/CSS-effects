@@ -10,3 +10,4 @@
 8. Download indicator
 9. Spinner
 10. Animation of text 'LOADING...'
+11. Circular progress bar
