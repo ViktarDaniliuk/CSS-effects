@@ -13,3 +13,4 @@
 11. Circular progress bar
 12. Original card hover effect
 13. Pacman
+14. Slider
