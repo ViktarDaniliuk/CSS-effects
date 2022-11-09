@@ -14,3 +14,4 @@
 12. Original card hover effect
 13. Pacman
 14. Slider
+15. Parallax
