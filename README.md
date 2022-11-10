@@ -15,3 +15,4 @@
 13. Pacman
 14. Slider
 15. Parallax
+16. Glitch effect
