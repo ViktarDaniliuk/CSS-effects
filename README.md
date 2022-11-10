@@ -16,3 +16,4 @@
 14. Slider
 15. Parallax
 16. Glitch effect
+17. Rotary buttons
