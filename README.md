@@ -22,3 +22,4 @@
 20. Creative product card
 21. Animated gradient shadow effect
 22. Navigation menu hover effect
+23. Product card border animation
