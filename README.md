@@ -20,5 +20,5 @@
 18. Water buttoon
 19. Cards with hover effect 1
 20. Creative product card
-21. Animated-gradient-shadow-effect
+21. Animated gradient shadow effect
 22. Navigation menu hover effect
