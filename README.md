@@ -25,3 +25,4 @@
 23. Product card border animation
 24. Cards with hover effect 2
 25. Custom animated checkbox
+26. Custom scrollbar
