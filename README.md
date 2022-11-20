@@ -24,3 +24,4 @@
 22. Navigation menu hover effect
 23. Product card border animation
 24. Cards with hover effect 2
+25. Custom animated checkbox
