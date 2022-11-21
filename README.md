@@ -27,3 +27,4 @@
 25. Custom animated checkbox
 26. Custom scrollbar
 27. Creative payment radio button
+28. Animated search box
